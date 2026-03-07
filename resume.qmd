@@ -2,38 +2,80 @@
 title: "Resume"
 ---
 
-# Education
+# Resume
 
--   List your education here.
+## Professional Summary
 
-# Publications
+I am a Master of Geomatics for Environmental Management student at the University of British Columbia with a background in Geography and Environmental Management from the University of Waterloo. My experience spans GIS, spatial analysis, environmental planning, data visualization, and geospatial decision support. Across academic, co-op, and professional projects, I have worked with ArcGIS Pro, QGIS, Python, R, SQL, Tableau, and Power BI to support environmental analysis and infrastructure planning.
 
-*Peer-reviewed publications:*
+## Education
 
--   List any peer-reviewed publications here.
+**Master of Geomatics for Environmental Management (MGEM)**\
+University of British Columbia, Vancouver, Canada\
+Expected April 2026
 
-*Reports:*
+**Honours Bachelor of Environmental Studies (Co-op), Geography and Environmental Management**\
+University of Waterloo, Waterloo, Canada\
+Fall 2019 – April 2025
 
--   List any non-peer reviewed materials you'd like to share here.
+## Technical Skills
 
-# Conferences & Talks
+-   **GIS and Mapping:** ArcGIS Pro, ArcMap, QGIS, digital mapping, geocoding, network analysis
+-   **Programming and Data Analysis:** Python, R, SQL Server, PostgreSQL/PostGIS, SPSS
+-   **Visualization:** Tableau, Power BI, Excel
+-   **Remote Sensing:** RADAR, LiDAR, Google Earth Engine, drone operation
+-   **Applied Areas:** environmental impact assessment, regional planning, spatial analysis, risk mapping, project support
 
-*Invited Talks*
+## Selected Experience
 
--   If you've been invited to speak in a professional setting, list that here.
+### GIS & Geospatial Intelligence Analyst
 
-*Conference Presentations*
+**AECO Innovation Lab**\
+Richmond Hill, Canada\
+January 2024 – April 2024
 
--   If the presentation was at a conference, list them here.
+-   Conducted spatial analysis of land use change, transportation networks, and environmental constraints to support regional planning
+-   Developed GIS-based models and produced maps and atlases for infrastructure and planning applications
+-   Prepared technical reports and visual materials to communicate analytical results
 
-# Awards & Honors
+### Data Analyst
 
--   List any scholarships, bursaries, etc.
+**Accenture**\
+Shanghai, China (Remote)\
+May 2023 – August 2023
 
-# Teaching Assistantships
+-   Collected, cleaned, and analyzed multi-source data using Python and SQL
+-   Built automated reporting workflows to improve efficiency
+-   Created data visualizations in Excel and Tableau to support decision-making
 
--   List any TA positions you may have held.
+### Water & Wastewater Infrastructure Planner
 
-# Institutional Service
+**Region of Peel**\
+Brampton, Canada\
+September 2022 – December 2022
 
--   Volunteering etc.
+-   Produced maps and spatial outputs to support wastewater infrastructure planning
+-   Processed and updated infrastructure-related datasets in ArcGIS and Excel
+-   Supported technical documentation and project communication
+
+### Research Assistant
+
+**Fibos Inc.**\
+Toronto, Canada\
+July 2024 – August 2024
+
+-   Researched combustion monitoring technologies and their environmental applications
+-   Used Power BI to analyze and visualize system performance data
+-   Contributed literature reviews, reporting, and sustainability-related analysis
+
+## Certifications
+
+-   Small Remotely Piloted Aircraft in Visual Line-Of-Sight (VLOS) Certificate
+-   Applied Sustainability for Technical Managers Specialization Certificate
+-   Renewable Energy Technology Fundamentals Certificate
+-   The Sustainable Development Goals – A Global, Transdisciplinary Vision for the Future Certificate
+-   Global Environmental Management Certificate
+
+## Download Resume
+
+[Download Yakun Zhou full resume](YakunZhou_resume_MGEM.pdf)
