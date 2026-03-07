@@ -1,39 +1,146 @@
 ---
 title: "Resume"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-# Education
+# Resume
 
--   List your education here.
+## Professional Summary
 
-# Publications
+I am a Master of Geomatics for Environmental Management student at the
+University of British Columbia with a background in Geography and
+Environmental Management from the University of Waterloo. My experience
+spans GIS, spatial analysis, environmental planning, data visualization,
+and geospatial decision support. Across academic, co-op, and
+professional projects, I have worked with ArcGIS Pro, QGIS, Python, R,
+ENVI, SQL, Tableau, and Power BI to support environmental analysis and
+infrastructure planning.
 
-*Peer-reviewed publications:*
+## Education
 
--   List any peer-reviewed publications here.
+**Honours Bachelor of Environmental Studies (Co-op), Geography and
+Environmental Management**\
+University of Waterloo, Waterloo, Canada\
+Fall 2019 – April 2025
 
-*Reports:*
+**Master of Geomatics for Environmental Management (MGEM)**\
+University of British Columbia, Vancouver, Canada\
+Expected April 2026
 
--   List any non-peer reviewed materials you'd like to share here.
+## Technical Skills
 
-# Conferences & Talks
+-   **GIS and Mapping:** ArcGIS Pro, QGIS, ArcGIS Online, digital
+    mapping, geocoding, network analysis
+-   **Programming and Data Analysis:** Python, R, SQL Server,
+    PostgreSQL/PostGIS, SPSS
+-   **Visualization:** Tableau, Power BI, Excel
+-   **Remote Sensing:** ENVI, Google Earth Engine, Lidar/Radar Analysis,
+    Drone Operation
+-   **Applied Areas:** Environmental Impact Assessment, Regional
+    Planning, Spatial Analysis, Risk Mapping, Project Support
 
-*Invited Talks*
+## Professional Experience
 
--   If you've been invited to speak in a professional setting, list that here.
+### GIS & Geospatial Intelligence Analyst
 
-*Conference Presentations*
+**AECO Innovation Lab**\
+Richmond Hill, Canada\
+January 2024 – April 2024
 
--   If the presentation was at a conference, list them here.
+-   Analyzed land use changes in Clarington area across past decade,
+    identifying trends through spatial data analysis to inform future
+    regional planning
+-   Developed GIS-based transportation network model for Kawartha Lakes
+    region to enhance traffic flow predictions, road construction
+    planning and overall transportation efficiency
+-   Optimized Environmental Impact Assessment (EIA) for Niagara Falls
+    area by conducting spatial analysis to identify potential
+    environmental risks and proposing effective mitigation measures
+-   Collected and processed geospatial data from multiple sources using
+    ArcGIS including data cleaning, integration and analysis; produced
+    infrastructure atlases for Grimsby and St. Catharines to support
+    urban planning and infrastructure project implementation
+-   Conducted geospatial analysis of land use, transportation networks
+    and environmental impacts to provide actionable insights for
+    regional development and infrastructure planning; visualized spatial
+    data by creating maps, charts and other materials to facilitate
+    informed decision-making
+-   Prepared technical documents and project reports to outline analysis
+    processes and results, ensuring transparency and sustainability in
+    project execution
 
-# Awards & Honors
+### Water & Wastewater Infrastructure Planner
 
--   List any scholarships, bursaries, etc.
+**Region of Peel**\
+Brampton, Canada\
+September 2022 – December 2022
 
-# Teaching Assistantships
+-   Created 4 types of maps using ArcMap, showcasing versatility in
+    map-making and ability to enhance project analysis
+-   Used ArcGIS to refine sewer and downspout data for City of Brampton
+    by applying filters and tools to ensure data accuracy and relevance
+-   Updated and managed smoke test data for Region of Peel using Excel,
+    effectively maintaining up-to-date result records
+-   Summarized construction report data and maps in MS Word for
+    documentation review to drive clear and efficient project
+    communication
+-   Supported wastewater management efforts in Region of Peel by
+    producing 40 maps for 10 sites in 4 months
 
--   List any TA positions you may have held.
+### Data Analyst
 
-# Institutional Service
+**Accenture**\
+Shanghai, China (Remote)\
+May 2023 – August 2023
 
--   Volunteering etc.
+-   Designed and implemented automated data processing and report
+    generation systems, reducing
+-   Collected, cleaned and preprocessed data from multiple sources using
+    Python and SQL to maintain accuracy and consistency for reliable
+    analysis
+-   Employed Excel and Tableau to perform data analysis and create
+    visualizations to present results and support team decision-making
+
+### Technical Documentation Engineer
+
+**Oneflow Technology Limited** Beijing, China Jan 2022 - Apr 2022
+
+-   Acquired coding-related translation and testing skills including
+    submitting API translation documents and assisting in refinement of
+    2 databases
+-   Managed translation tasks and supported publicity department with
+    video clips and article translations
+-   Aided social media growth initiative, successfully increasing
+    company's followers by 2,000 in 2 months via effective content
+    translation and engagement
+
+### Research Assistant
+
+**Fibos Inc.**\
+Toronto, Canada\
+July 2024 – August 2024
+
+-   Researched combustion monitoring technologies and their
+    environmental applications
+-   Used Power BI to analyze and visualize system performance data
+-   Contributed literature reviews, reporting, and
+    sustainability-related analysis
+
+## Certifications
+
+-   Small Remotely Piloted Aircraft in Visual Line-Of-Sight (VLOS)
+    Certificate -- Transport Canada (2022)
+-   Integrate Data with the FME Platform -- FME Academy Certificate
+    (2025)
+-   GIS: Geographic Information Systems for Sustainability -- University
+    of Michigan (2025)
+-   Healthcare Provider BLS/AED -- National Health & Safety
+    Association(2025)
+-   Renewable Energy Technology Fundamentals Certificate -- University
+    of Colorado Boulder (2024)
+
+## Download Resume
+
+[Download my full resume](YakunZhou_resume_MGEM.pdf)

@@ -1,26 +1,36 @@
 ---
-title: "My E-Portfolio"
-image: images/MGEM_logo.png
+title: "Yakun Zhou"
+image: images/Eportfolio_photo.jpg
 about:
   template: trestles
   image-width: 20em
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
+      href: https://www.linkedin.com/in/yakun-zhou-5a0686237/
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/YakunZhou
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:yk0411@student.ubc.ca
 ---
 
-Hey there people,
+# Yakun Zhou
 
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.
+**Master of Geomatics for Environmental Management Candidate**
 
-Write something about myself, very exciting.
+Welcome to my E-Portfolio. This site showcases selected academic and technical work completed during the Master of Geomatics for Environmental Management program at the University of British Columbia. My interests focus on GIS, spatial analysis, environmental risk assessment, and geospatial decision support.
+
+## About Me
+
+I am a geomatics and environmental management student with experience in ArcGIS Pro, remote sensing, spatial analysis, and map-based communication. Through the MGEM program, I have worked on projects involving wildfire risk mapping, environmental analysis, and geospatial data interpretation.
+
+## Portfolio Highlights
+
+This portfolio includes selected projects that demonstrate my development in:
+- GIS-based spatial analysis
+- wildfire risk modelling
+- environmental planning support
+- data visualization and communication
+

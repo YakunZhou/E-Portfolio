@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: C:/Users/melser/Documents/GitHub/E-Portfolio
+  output-dir: C:/Users/yk0411.stu/OneDrive - UBC/Desktop/Yakun Zhou/Winter_1/FCOR599/GitHub/E-Portfolio
 
 website:
-  title: "Your E-Portfolio"
+  title: "Yakun Zhou"
   navbar:
     left:
       - href: index.qmd
