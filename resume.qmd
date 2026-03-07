@@ -5,9 +5,7 @@ editor:
     wrap: 72
 ---
 
-# Resume
-
-## Professional Summary
+## Professional Experience
 
 I am a Master of Geomatics for Environmental Management student at the
 University of British Columbia with a background in Geography and
@@ -15,33 +13,33 @@ Environmental Management from the University of Waterloo. My experience
 spans GIS, spatial analysis, environmental planning, data visualization,
 and geospatial decision support. Across academic, co-op, and
 professional projects, I have worked with ArcGIS Pro, QGIS, Python, R,
-ENVI, SQL, Tableau, and Power BI to support environmental analysis and
+SQL, Tableau, and Power BI to support environmental analysis and
 infrastructure planning.
 
 ## Education
+
+**Master of Geomatics for Environmental Management (MGEM)**\
+University of British Columbia, Vancouver, Canada\
+Expected April 2026
 
 **Honours Bachelor of Environmental Studies (Co-op), Geography and
 Environmental Management**\
 University of Waterloo, Waterloo, Canada\
 Fall 2019 – April 2025
 
-**Master of Geomatics for Environmental Management (MGEM)**\
-University of British Columbia, Vancouver, Canada\
-Expected April 2026
-
 ## Technical Skills
 
--   **GIS and Mapping:** ArcGIS Pro, QGIS, ArcGIS Online, digital
-    mapping, geocoding, network analysis
+-   **GIS and Mapping:** ArcGIS Pro, ArcMap, QGIS, digital mapping,
+    geocoding, network analysis
 -   **Programming and Data Analysis:** Python, R, SQL Server,
     PostgreSQL/PostGIS, SPSS
 -   **Visualization:** Tableau, Power BI, Excel
--   **Remote Sensing:** ENVI, Google Earth Engine, Lidar/Radar Analysis,
-    Drone Operation
--   **Applied Areas:** Environmental Impact Assessment, Regional
-    Planning, Spatial Analysis, Risk Mapping, Project Support
+-   **Remote Sensing:** RADAR, LiDAR, Google Earth Engine, drone
+    operation
+-   **Applied Areas:** environmental impact assessment, regional
+    planning, spatial analysis, risk mapping, project support
 
-## Professional Experience
+## Selected Experience
 
 ### GIS & Geospatial Intelligence Analyst
 
@@ -70,6 +68,7 @@ January 2024 – April 2024
 -   Prepared technical documents and project reports to outline analysis
     processes and results, ensuring transparency and sustainability in
     project execution
+
 
 ### Water & Wastewater Infrastructure Planner
 
@@ -105,7 +104,8 @@ May 2023 – August 2023
 
 ### Technical Documentation Engineer
 
-**Oneflow Technology Limited** Beijing, China Jan 2022 - Apr 2022
+**Oneflow Technology Limited**\
+Beijing, China Jan 2022 - Apr 2022\
 
 -   Acquired coding-related translation and testing skills including
     submitting API translation documents and assisting in refinement of
@@ -132,12 +132,11 @@ July 2024 – August 2024
 
 -   Small Remotely Piloted Aircraft in Visual Line-Of-Sight (VLOS)
     Certificate -- Transport Canada (2022)
--   Integrate Data with the FME Platform -- FME Academy Certificate
-    (2025)
+-   Integrate Data with the FME Platform -- FME Academy Certificate (2025) 
 -   GIS: Geographic Information Systems for Sustainability -- University
     of Michigan (2025)
 -   Healthcare Provider BLS/AED -- National Health & Safety
-    Association(2025)
+    Association (2025)
 -   Renewable Energy Technology Fundamentals Certificate -- University
     of Colorado Boulder (2024)
 
