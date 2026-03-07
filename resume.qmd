@@ -20,24 +20,24 @@ infrastructure planning.
 
 **Master of Geomatics for Environmental Management (MGEM)**\
 University of British Columbia, Vancouver, Canada\
-Expected April 2026
+July 2025 - April 2026
 
-**Honours Bachelor of Environmental Studies (Co-op), Geography and
-Environmental Management**\
+**Bachelor of Environmental Studies (Co-op), Geography and Environmental
+Management**\
+(Geomatics Specialization)\
 University of Waterloo, Waterloo, Canada\
-Fall 2019 – April 2025
+September 2019 – April 2025
 
 ## Technical Skills
 
--   **GIS and Mapping:** ArcGIS Pro, ArcMap, QGIS, digital mapping,
+-   **GIS and Mapping:** ArcGIS Pro, QGIS, digital mapping,
     geocoding, network analysis
 -   **Programming and Data Analysis:** Python, R, SQL Server,
     PostgreSQL/PostGIS, SPSS
 -   **Visualization:** Tableau, Power BI, Excel
--   **Remote Sensing:** RADAR, LiDAR, Google Earth Engine, drone
-    operation
--   **Applied Areas:** environmental impact assessment, regional
-    planning, spatial analysis, risk mapping, project support
+-   **Remote Sensing:** ENVI, LiDAR/RADAR Analysis, Google Earth Engine, Drone
+    Operation
+-   **Applied Areas:** Environmental Impact Assessment, Spatial Analysis, Risk Mapping, Project Support
 
 ## Selected Experience
 
@@ -68,7 +68,6 @@ January 2024 – April 2024
 -   Prepared technical documents and project reports to outline analysis
     processes and results, ensuring transparency and sustainability in
     project execution
-
 
 ### Water & Wastewater Infrastructure Planner
 
@@ -132,11 +131,12 @@ July 2024 – August 2024
 
 -   Small Remotely Piloted Aircraft in Visual Line-Of-Sight (VLOS)
     Certificate -- Transport Canada (2022)
--   Integrate Data with the FME Platform -- FME Academy Certificate (2025) 
+-   Integrate Data with the FME Platform -- FME Academy Certificate
+    (2025) 
 -   GIS: Geographic Information Systems for Sustainability -- University
     of Michigan (2025)
--   Healthcare Provider BLS/AED -- National Health & Safety
-    Association (2025)
+-   Healthcare Provider BLS/AED -- National Health & Safety Association
+    (2025) 
 -   Renewable Energy Technology Fundamentals Certificate -- University
     of Colorado Boulder (2024)
 
