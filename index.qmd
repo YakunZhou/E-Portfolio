@@ -29,8 +29,11 @@ I am a geomatics and environmental management student with experience in ArcGIS 
 ## Portfolio Highlights
 
 This portfolio includes selected projects that demonstrate my development in:
-- GIS-based spatial analysis
-- wildfire risk modelling
-- environmental planning support
-- data visualization and communication
 
+-   GIS-based spatial analysis
+
+-   Wildfire risk modelling
+
+-   Environmental planning support
+
+-   Data visualization and communication
