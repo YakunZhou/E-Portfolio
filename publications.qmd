@@ -2,8 +2,6 @@
 title: "Publications"
 ---
 
-# Publications
-
 ## Journal Article
 
 ### 1. Multi Meta Information Fusion Graph Neural Networks for Session-based Recommendation
