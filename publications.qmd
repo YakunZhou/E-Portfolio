@@ -2,6 +2,18 @@
 title: "Publications"
 ---
 
-*Peer-reviewed publications:*
+# Publications
 
-Despite listing them on your resume, it may also be pertinent to create a seperate tab for publications and reports. As your career progresses, this list may become quite long, so be sure to organize things. You may want to point to 'most recent' publications, or categorize things by project/topic. 
+## Journal Article
+
+### 1. Multi Meta Information Fusion Graph Neural Networks for Session-based Recommendation
+
+**Authors:** Yan Wen, Hui-Zheng Sun, Liang Liu, Ya-Kun Zhou, Wei Bian, Ming-Hai Yan\
+**Journal:** *Journal of Network Intelligence*\
+**Volume and Issue:** 10(1)\
+**Pages:** 366–382\
+**Date:** February 2025
+
+[Read the paper](https://bit.kuas.edu.tw/~jni/2025/vol10/s1/25.JNI-S-2024-03-015.pdf)
+
+This publication focuses on session-based recommendation systems and proposes a graph neural network framework that combines normal graph and hypergraph structures. The model is designed to better represent short-term user behavior and group intention within anonymous sessions, while also incorporating cross-session information to improve recommendation accuracy.
