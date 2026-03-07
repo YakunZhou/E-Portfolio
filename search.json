@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Yakun Zhou",
     "section": "",
-    "text": "Hi everyone!\nMy name is Yakun Zhou, and I’m from Shandong, China. I completed my undergraduate degree – Geography and Environmental Management at the University of Waterloo in Ontario. During my studies, I developed a strong interest in GIS, remote sensing, and their applications in environmental management. One of my most meaningful projects involved using spatial overlay analysis to identify Halifax areas most vulnerable to hurricane-related storm surges. During my undergraduate studies, I completed four co-op terms focused on GIS and data management, where I applied spatial analysis and data visualization techniques to support infrastructure planning. Now, I am studying the Master of Geomatics for Environmental Management program at the University of British Columbia. In the future, I hope to work as a GIS analyst or engineer. Outside of academics, I enjoy going to the gym and participating in any kind of outdoor sports. I’m hoping to make friends for all of you."
+    "text": "Master of Geomatics for Environmental Management Candidate\nWelcome to my E-Portfolio. This site showcases selected academic and technical work completed during the Master of Geomatics for Environmental Management program at the University of British Columbia. My interests focus on GIS, spatial analysis, environmental risk assessment, and geospatial decision support.\n\n\nI am a geomatics and environmental management student with experience in ArcGIS Pro, remote sensing, spatial analysis, and map-based communication. Through the MGEM program, I have worked on projects involving wildfire risk mapping, environmental analysis, and geospatial data interpretation.\n\n\n\nThis portfolio includes selected projects that demonstrate my development in:\n\nGIS-based spatial analysis\nWildfire risk modelling\nEnvironmental planning support\nData visualization and communication"
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Education\n\nList your education here.\n\n\n\nPublications\nPeer-reviewed publications:\n\nList any peer-reviewed publications here.\n\nReports:\n\nList any non-peer reviewed materials you’d like to share here.\n\n\n\nConferences & Talks\nInvited Talks\n\nIf you’ve been invited to speak in a professional setting, list that here.\n\nConference Presentations\n\nIf the presentation was at a conference, list them here.\n\n\n\nAwards & Honors\n\nList any scholarships, bursaries, etc.\n\n\n\nTeaching Assistantships\n\nList any TA positions you may have held.\n\n\n\nInstitutional Service\n\nVolunteering etc."
+    "text": "I am a Master of Geomatics for Environmental Management student at the University of British Columbia with a background in Geography and Environmental Management from the University of Waterloo. My experience spans GIS, spatial analysis, environmental planning, data visualization, and geospatial decision support. Across academic, co-op, and professional projects, I have worked with ArcGIS Pro, QGIS, Python, R, SQL, Tableau, and Power BI to support environmental analysis and infrastructure planning."
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Peer-reviewed publications:\nDespite listing them on your resume, it may also be pertinent to create a seperate tab for publications and reports. As your career progresses, this list may become quite long, so be sure to organize things. You may want to point to ‘most recent’ publications, or categorize things by project/topic."
+    "text": "Authors: Yan Wen, Hui-Zheng Sun, Liang Liu, Ya-Kun Zhou, Wei Bian, Ming-Hai Yan\nJournal: Journal of Network Intelligence\nVolume and Issue: 10(1)\nPages: 366–382\nDate: February 2025\nRead the paper\nThis publication focuses on session-based recommendation systems and proposes a graph neural network framework that combines normal graph and hypergraph structures. The model is designed to better represent short-term user behavior and group intention within anonymous sessions, while also incorporating cross-session information to improve recommendation accuracy."
   },
   {
     "objectID": "content_development.html",
@@ -54,5 +54,68 @@
     "title": "Content & Deliverables",
     "section": "",
     "text": "You can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Yakun Zhou",
+    "section": "",
+    "text": "I am a geomatics and environmental management student with experience in ArcGIS Pro, remote sensing, spatial analysis, and map-based communication. Through the MGEM program, I have worked on projects involving wildfire risk mapping, environmental analysis, and geospatial data interpretation."
+  },
+  {
+    "objectID": "index.html#portfolio-highlights",
+    "href": "index.html#portfolio-highlights",
+    "title": "Yakun Zhou",
+    "section": "",
+    "text": "This portfolio includes selected projects that demonstrate my development in:\n\nGIS-based spatial analysis\nWildfire risk modelling\nEnvironmental planning support\nData visualization and communication"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "I am a Master of Geomatics for Environmental Management student at the University of British Columbia with a background in Geography and Environmental Management from the University of Waterloo. My experience spans GIS, spatial analysis, environmental planning, data visualization, and geospatial decision support. Across academic, co-op, and professional projects, I have worked with ArcGIS Pro, QGIS, Python, R, SQL, Tableau, and Power BI to support environmental analysis and infrastructure planning."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\nMaster of Geomatics for Environmental Management (MGEM)\nUniversity of British Columbia, Vancouver, Canada\nJuly 2025 - April 2026\nBachelor of Environmental Studies (Co-op), Geography and Environmental Management\n(Geomatics Specialization)\nUniversity of Waterloo, Waterloo, Canada\nSeptember 2019 – April 2025"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nGIS and Mapping: ArcGIS Pro, QGIS, digital mapping, geocoding, network analysis\nProgramming and Data Analysis: Python, R, SQL Server, PostgreSQL/PostGIS, SPSS\nVisualization: Tableau, Power BI, Excel\nRemote Sensing: ENVI, LiDAR/RADAR Analysis, Google Earth Engine, Drone Operation\nApplied Areas: Environmental Impact Assessment, Spatial Analysis, Risk Mapping, Project Support"
+  },
+  {
+    "objectID": "resume.html#selected-experience",
+    "href": "resume.html#selected-experience",
+    "title": "Resume",
+    "section": "Selected Experience",
+    "text": "Selected Experience\n\nGIS & Geospatial Intelligence Analyst\nAECO Innovation Lab\nRichmond Hill, Canada\nJanuary 2024 – April 2024\n\nAnalyzed land use changes in Clarington area across past decade, identifying trends through spatial data analysis to inform future regional planning\nDeveloped GIS-based transportation network model for Kawartha Lakes region to enhance traffic flow predictions, road construction planning and overall transportation efficiency\nOptimized Environmental Impact Assessment (EIA) for Niagara Falls area by conducting spatial analysis to identify potential environmental risks and proposing effective mitigation measures\nCollected and processed geospatial data from multiple sources using ArcGIS including data cleaning, integration and analysis; produced infrastructure atlases for Grimsby and St. Catharines to support urban planning and infrastructure project implementation\nConducted geospatial analysis of land use, transportation networks and environmental impacts to provide actionable insights for regional development and infrastructure planning; visualized spatial data by creating maps, charts and other materials to facilitate informed decision-making\nPrepared technical documents and project reports to outline analysis processes and results, ensuring transparency and sustainability in project execution\n\n\n\nWater & Wastewater Infrastructure Planner\nRegion of Peel\nBrampton, Canada\nSeptember 2022 – December 2022\n\nCreated 4 types of maps using ArcMap, showcasing versatility in map-making and ability to enhance project analysis\nUsed ArcGIS to refine sewer and downspout data for City of Brampton by applying filters and tools to ensure data accuracy and relevance\nUpdated and managed smoke test data for Region of Peel using Excel, effectively maintaining up-to-date result records\nSummarized construction report data and maps in MS Word for documentation review to drive clear and efficient project communication\nSupported wastewater management efforts in Region of Peel by producing 40 maps for 10 sites in 4 months\n\n\n\nData Analyst\nAccenture\nShanghai, China (Remote)\nMay 2023 – August 2023\n\nDesigned and implemented automated data processing and report generation systems, reducing\nCollected, cleaned and preprocessed data from multiple sources using Python and SQL to maintain accuracy and consistency for reliable analysis\nEmployed Excel and Tableau to perform data analysis and create visualizations to present results and support team decision-making\n\n\n\nTechnical Documentation Engineer\nOneflow Technology Limited\nBeijing, China Jan 2022 - Apr 2022\n\n\nAcquired coding-related translation and testing skills including submitting API translation documents and assisting in refinement of 2 databases\nManaged translation tasks and supported publicity department with video clips and article translations\nAided social media growth initiative, successfully increasing company’s followers by 2,000 in 2 months via effective content translation and engagement\n\n\n\nResearch Assistant\nFibos Inc.\nToronto, Canada\nJuly 2024 – August 2024\n\nResearched combustion monitoring technologies and their environmental applications\nUsed Power BI to analyze and visualize system performance data\nContributed literature reviews, reporting, and sustainability-related analysis"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume",
+    "section": "Certifications",
+    "text": "Certifications\n\nSmall Remotely Piloted Aircraft in Visual Line-Of-Sight (VLOS) Certificate – Transport Canada (2022)\nIntegrate Data with the FME Platform – FME Academy Certificate\n\n\n\nGIS: Geographic Information Systems for Sustainability – University of Michigan (2025)\nHealthcare Provider BLS/AED – National Health & Safety Association\n\n\n\nRenewable Energy Technology Fundamentals Certificate – University of Colorado Boulder (2024)"
+  },
+  {
+    "objectID": "resume.html#download-resume",
+    "href": "resume.html#download-resume",
+    "title": "Resume",
+    "section": "Download Resume",
+    "text": "Download Resume\nDownload my full resume"
+  },
+  {
+    "objectID": "publications.html#journal-article",
+    "href": "publications.html#journal-article",
+    "title": "Publications",
+    "section": "",
+    "text": "Authors: Yan Wen, Hui-Zheng Sun, Liang Liu, Ya-Kun Zhou, Wei Bian, Ming-Hai Yan\nJournal: Journal of Network Intelligence\nVolume and Issue: 10(1)\nPages: 366–382\nDate: February 2025\nRead the paper\nThis publication focuses on session-based recommendation systems and proposes a graph neural network framework that combines normal graph and hypergraph structures. The model is designed to better represent short-term user behavior and group intention within anonymous sessions, while also incorporating cross-session information to improve recommendation accuracy."
   }
 ]

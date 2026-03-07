@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: C:/Users/yk0411.stu/OneDrive - UBC/Desktop/Yakun Zhou/Winter_1/FCOR599/GitHub/E-Portfolio
+  output-dir: "C:/Users/yk0411.stu/OneDrive - UBC/Desktop/Yakun Zhou/FCOR599/GitHub/E-Portfolio"
 
 website:
   title: "Yakun Zhou"
