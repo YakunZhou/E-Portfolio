@@ -4,72 +4,66 @@ format: html
 editor: visual
 ---
 
-# Project 1 - Capstone Deliverables
+# MGEM Projects and Deliverables
 
-This is a sample page where you can archive project deliverables. Every header you use will correspond to a tab in the legend - shown on the right-hand side of your screen ("On this page").
+This page highlights selected work from the Master of Geomatics for Environmental Management program, with a focus on GIS, spatial analysis, environmental risk mapping, and cartographic communication.
 
-If you've produced any GIS layers for your 599 project, this may be a good place to share them as interactive maps through leaflet. Alternatively, you can upload high-res figures showing correlations, box-plots, etc. from your report here, and provide a brief overview of key project results. If you have written some useful functions, you may also want to share those here to demonstrate proficiency in particular coding languages or synergies between notable coding packages.
+# FCOR 599 Capstone Project
 
-## Leaflet
+## Wildfire Risk Mapping and Emergency Accessibility in Kelowna and West Kelowna
 
-Sample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page [here](https://ubc-mgem-fcor599.github.io/FCOR-599-Workshops/Interactive_Maps/leaflet.html).
+### Research Question
 
-```{r leaflet, include = FALSE}
-library(dplyr); library(leaflet)
+How can spatial modeling of wildfire susceptibility and emergency response time be integrated to identify vulnerable high-risk zones in Kelowna and West Kelowna, British Columbia?
 
-m <- leaflet() %>%
-  addProviderTiles("Esri.WorldImagery") %>%
-  addScaleBar(position = c("bottomleft")) %>%
-  setView(-123.1207, 49.2827, zoom = 11)
+### Project Overview
 
-```
+This capstone project integrated a wildfire susceptibility model with an emergency response time analysis to identify vulnerable high-risk zones in Kelowna and West Kelowna. The workflow combined terrain, vegetation, and climate criteria in a multi-criteria decision analysis and then linked the final wildfire risk surface to emergency accessibility using network-based travel time analysis.
 
-```{r map, echo=FALSE}
-m
-```
+### Key Methods
 
-## Code Snippets
+-   Standardized all spatial layers to a common analysis grid in NAD 1983 BC Albers (EPSG:3005)
+-   Built a wildfire susceptibility model using topography, vegetation, and climate criteria
+-   Reclassified all inputs to a common ordinal risk scale
+-   Produced a final weighted overlay wildfire risk map
+-   Used RStudio to summarize area proportions and compare urban versus non-urban exposure
+-   Applied ArcGIS Pro Closest Facility analysis to identify high-risk areas with delayed emergency response
 
-Sample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a 'tabset' in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let's showcase a function for calculating NDVI in R and Python.
+## Final Wildfire Susceptibility Map
 
-::: {.panel-tabset group="language"}
-## R
+The integrated wildfire susceptibility model produced a four-level risk map for Kelowna and West Kelowna. Low-risk areas were concentrated in valley bottoms and areas with less fuel supply and gentle terrain. High and very high risk areas formed patch-like and corridor-like patterns along forested slopes and the wildland–urban interface, especially around the west side of Okanagan Lake and nearby developed areas.
 
-``` (.r)
-calc_ndvi <- function(nir, red){
-  ndvi <- (nir-red)/(nir+red)
-  return(ndvi)
-}
-```
+![](images/1_Final%20Wildfire%20Risk.png){fig-alt="Final wildfire susceptibility map" width="85%"}
 
-(Assuming *nir* and *red* are terra rast objects)
+## Area Proportion by Wildfire Risk Class
 
-## Python
+The area summary shows that the study area is dominated by low-risk land (58.9%) and high-risk land (39.1%), while very high risk (1.9%) and very low risk (0.1%) occupy relatively small proportions. This indicates that although the most extreme susceptibility is spatially limited, a substantial share of the landscape still falls within elevated wildfire risk classes.
 
-``` (.python)
-def calc_ndvi(nir, red): 
-  ndvi = (nir - red)/(nir + red)
-  return(ndvi)
-```
+![](images/2_Area%20proportion_fireriskClass.png){fig-alt="Area proportion by wildfire risk class" width="70%"}
 
-(Assuming *nir* and *red* are numpy arrays)
-:::
+## Urban vs. Non-Urban Exposure
 
-## External links
+Urban and non-urban areas show different wildfire exposure patterns. Within urban land, most of the area falls into the low-risk class (84.3%), with 15.6% in the high-risk class and no very high risk identified. In contrast, non-urban land shows much greater exposure, with 55.0% in the high-risk class and 3.2% in the very high risk class. This pattern suggests that the greatest modeled wildfire vulnerability is concentrated outside core urban areas, especially around the wildland–urban interface.
 
-You can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:
+![](images/3_urban_vs_non-urban_areaPercent.png){fig-alt="Urban versus non-urban wildfire risk comparison" width="75%"}
 
-```{code}
+## Wildfire Risk with Response Time
 
-<iframe width="900" height="700"
-src="https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool">
-</iframe>
-```
+To extend the hazard analysis, wildfire susceptibility was integrated with emergency accessibility. High-risk and very high-risk grid-cell centroids were analyzed using Closest Facility network analysis, with fire stations defined as facilities and driving time used as the impedance metric. Areas requiring more than 4 minutes of driving time were classified as delayed-response zones. Among 4,435 high-risk grid cells, 1,705 cells (38.4%) exceeded the 4-minute threshold, indicating that a substantial number of high-risk locations may face limited emergency access.
 
-The full-screen GEE application is available [here](https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool) in case you're interested.
+![](images/4_Final%20Wildfire%20Risk(with%20response%20time).png){fig-alt="Final wildfire risk map with emergency response time" width="85%"}
 
-(To use the GEE tool, navigate to any city you'd like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)
+## Tools and Skills Demonstrated
 
-```{=html}
-<iframe width="900" height="700" src="https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool"></iframe>
-```
+-   ArcGIS Pro
+-   Network Analyst
+-   Weighted overlay analysis
+-   Raster reclassification
+-   RStudio
+-   Spatial statistics and visualization
+-   Environmental risk assessment
+-   Cartographic communication
+
+## Reflection
+
+This project strengthened my ability to integrate multiple environmental criteria into a structured GIS workflow and connect hazard mapping with practical planning concerns such as emergency accessibility. It also improved my skills in presenting technical results through maps, charts, and spatial interpretation.
